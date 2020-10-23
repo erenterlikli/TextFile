@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\bin\Debug\MetinBelgesiİşlemler.exe.config
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\bin\Debug\MetinBelgesiİşlemler.exe
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\bin\Debug\MetinBelgesiİşlemler.pdb
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.Form1.resources
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.Properties.Resources.resources
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.exe
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.pdb
+C:\Users\Eren\source\repos\MetinBelgesiİşlemler\MetinBelgesiİşlemler\obj\Debug\MetinBelgesiİşlemler.csprojAssemblyReference.cache
